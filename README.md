@@ -57,7 +57,7 @@ Bioengineering graduate<br>🔭 I’m currently job hunting<br>- 📚 I'm curren
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ryan-afk-07&theme=prussian&mode=weekly" alt="GitHub Streak"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryan-afk-07&theme=cobalt&hide_border=false" alt="GitHub Streak"  />
 </div>
 
 ###
